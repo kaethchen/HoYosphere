@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Inspiration - 34306</string>
+			<key>isStaticText</key>
+			<true />
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Connectivity bundle - 34306</string>
+			<key>isStaticText</key>
+			<true />
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Control Center icons implementation assistance - MrGcGamer</string>
+			<key>isStaticText</key>
+			<true />
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Genshin Impact font - HoYoverse</string>
+			<key>isStaticText</key>
+			<true />
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Genshin Impact control center icons - HonestlyNoGood</string>
+			<key>isStaticText</key>
+			<true />
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Honkai: Star Rail font - Manvel Shmavonyan and Tagir Safayev</string>
+			<key>isStaticText</key>
+			<true />
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Honkai: Star Rail passcode icons - HoYoverse and maknaeae</string>
+			<key>isStaticText</key>
+			<true />
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Credits</string>
+</dict>
+</plist>
